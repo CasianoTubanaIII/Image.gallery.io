@@ -21,6 +21,7 @@ body {
   left: 0;
   width: 640px;
   height: 480px;
+  
   background-color: rgba(0,0,0,0);
 }
 
@@ -40,4 +41,5 @@ button {
   width: 20%;
   float: left;
   cursor: pointer;
+  borer: 10em solid red;
 }
