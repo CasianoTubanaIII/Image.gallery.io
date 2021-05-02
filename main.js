@@ -76,7 +76,6 @@ for (let i = 1; i<6; i++) {
   } */
 
 
-//This is me trying another method, but its not working
 btn.onclick = function() {
   for(let i=0; i<2; i++) {
     if (i){
